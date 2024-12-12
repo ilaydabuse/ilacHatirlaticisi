@@ -1,1 +1,2 @@
 # ilacHatirlaticisi
+Bitirme projemde, yaşlıların ve kronik hastalığı olanların ilaçlarını düzenli olarak almalarını sağlamak amacıyla bir ilaç hatırlatıcısı geliştirdim. Arduino mikrodenetleyici, RTC modülü, LED'ler ve buzzer kullanarak tasarladığım cihaz, belirlenen saatlerde kullanıcıyı sesli ve ışıklı sinyallerle uyarıyor. 3D yazıcı ile ürettiğim özel bir kutuya yerleştirdiğim cihaz, hem işlevsel hem de estetik bir görünüme sahip. Bu projede elektronik devre tasarımı, gömülü yazılım geliştirme ve 3D modelleme becerilerimi geliştirdim.
